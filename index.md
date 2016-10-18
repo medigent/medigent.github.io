@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: Poprawiamy opiekę medyczną. Z zaufaniem.
-description: 
+description:
 image:
 author:
 nav-menu:
