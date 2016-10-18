@@ -33,9 +33,11 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Dla nas</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Nowe technologie stwarzają wiele możliwości udoskonalenia opieki nad pacjentami.
+		Umiejętne ich wykorzystanie, ułatwi pracę lekarzy i zwiększy bezpieczeństwo pacjentów.
+		Przez bliską współpracę ekspertów nowych technologii i klinicystów, jesteśmy u progu tworzenia medycyny przyszłości.</p>
 		<ul class="actions">
 			<li><a href="landing.html" class="button next">Get Started</a></li>
 		</ul>
