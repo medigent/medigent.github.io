@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
+landing-title: Poprawiamy opiekę medyczną. Z zaufaniem.
 description: 
-image: 
-author: 
-nav-menu: 
+image:
+author:
+nav-menu:
 ---
 
 <!-- Banner -->
@@ -43,4 +43,3 @@ nav-menu:
 </section>
 
 </div>
-
