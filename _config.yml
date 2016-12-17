@@ -8,7 +8,7 @@
 # Site settings
 title-bold: MEDIGENT
 title-normal: Assisting Healthcare
-email: wojciech.francuzik@medigent.com
+email: contact@medigent.com
 description: Fundacja MEDIGENT wspiera zastosowanie nowych technologii w medycynie.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://medigent.github.io" # the base hostname & protocol for your site
@@ -17,7 +17,7 @@ street_address: ul. Grunwaldzka 66/2
 city: Poznań
 zip_code: 60-311
 country: Poland
-phone:
+phone: +48 508 193 408
 
 # Plugins
 gems:
