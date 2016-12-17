@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: Poprawiamy opiekę medyczną. Z zaufaniem.
-description:
+description: "Celem statuowym Fundacji Medigent jest wprowadzanie nowych technologii w medycynie i poprawa opieki zdrowotnej przez innowacje."
 image:
 author:
 nav-menu:
@@ -33,13 +33,15 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Dla nas</h2>
+			<h2>Innowacje w trosce o Ciebie!</h2>
 		</header>
 		<p>Nowe technologie stwarzają wiele możliwości udoskonalenia opieki nad pacjentami.
 		Umiejętne ich wykorzystanie, ułatwi pracę lekarzy i zwiększy bezpieczeństwo pacjentów.
 		Przez bliską współpracę ekspertów nowych technologii i klinicystów, jesteśmy u progu tworzenia medycyny przyszłości.</p>
 		<ul class="actions">
+		<!-- Landing disabled. Reenable when ready.
 			<li><a href="landing.html" class="button next">Get Started</a></li>
+		-->
 		</ul>
 	</div>
 </section>
