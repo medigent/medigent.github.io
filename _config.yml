@@ -8,7 +8,7 @@
 # Site settings
 title-bold: MEDIGENT
 title-normal: Assisting Healthcare
-email: contact@medigent.com
+email: contact@medigent.org
 description: Fundacja MEDIGENT wspiera zastosowanie nowych technologii w medycynie.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://medigent.github.io" # the base hostname & protocol for your site
