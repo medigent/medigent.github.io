@@ -5,7 +5,7 @@ landing-title: Poprawiamy opiekę medyczną. Z zaufaniem.
 description: "Celem statuowym Fundacji Medigent jest wprowadzanie nowych technologii w medycynie i poprawa opieki zdrowotnej przez innowacje."
 image:
 author:
-nav-menu:
+nav-menu: no
 ---
 
 <!-- Banner -->
