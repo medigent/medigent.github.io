@@ -37,7 +37,7 @@ nav-menu: false
 		</header>
 		<p>Nowe technologie stwarzają wiele możliwości udoskonalenia opieki nad pacjentami.
 		Umiejętne ich wykorzystanie, ułatwi pracę lekarzy i zwiększy bezpieczeństwo pacjentów.
-		Przez bliską współpracę ekspertów nowych technologii i klinicystów, jesteśmy u progu tworzenia medycyny przyszłości.</p>
+		Przez bliską współpracę ekspertów nowych technologii i klinicystów, jesteśmy u progu tworzenia medycyny przyszłości. </p>
 		<ul class="actions">
 		<!-- Landing disabled. Reenable when ready.
 			<li><a href="landing.html" class="button next">Get Started</a></li>
