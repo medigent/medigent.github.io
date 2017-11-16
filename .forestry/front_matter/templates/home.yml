@@ -1,0 +1,28 @@
+---
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- name: landing-title
+  label: Landing title
+  type: text
+  hidden: false
+  default: ''
